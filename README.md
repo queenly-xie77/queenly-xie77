@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @queenly-xie77
-- 👀 I’m interested in biomedical engineering (MEMS devices).
-- 🌱 I’m currently learning C programming language.
+- 👀 I’m interested in brain-computer interfaces.
+- 🌱 I’m currently learning computer engineering.
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me: Message me on linkedin! www.linkedin.com/in/queenly-xie
 
